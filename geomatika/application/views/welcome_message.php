@@ -15,12 +15,9 @@
 
         table {
             border-collapse: collapse;
-            width: 80%; /* Sesuaikan lebar tabel sesuai kebutuhan */
+            width: 80%; 
             margin: 0 auto;
-			/* Memusatkan tabel secara horizontal */
         }
-
-        /* Gaya tabel lainnya */
         th, td {
             border: 1px solid #ddd;
             padding: 8px;
